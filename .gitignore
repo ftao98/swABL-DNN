@@ -32,3 +32,6 @@
 *.app
 
 .vscode/*
+tool/testActivation
+tool/testConvDirect
+tool/testPooling
