@@ -35,3 +35,4 @@
 tool/testActivation
 tool/testConvDirect
 tool/testPooling
+data*.txt
